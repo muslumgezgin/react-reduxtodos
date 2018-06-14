@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 
 You can see the final project  [Here](https://enigmatic-anchorage-90774.herokuapp.com/ "Here") 
 
